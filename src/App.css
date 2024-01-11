@@ -1,0 +1,14 @@
+.active {
+  color: #928f8f;
+}
+
+.inactive {
+  color: #941111;
+}
+
+.active,
+.inactive {
+  margin: 10px;
+  text-decoration: none;
+  box-shadow: none;
+}
